@@ -3,4 +3,4 @@ To install the theme, go to https://bearblog.dev/dashboard/styles/ and paste the
 
 Remember to hit `Publish` to save your changes
 
-For an example of how the theme looks, check out [my blog](ayhon.bearblog.dev/suffix-array/)!
+For an example of how the theme looks, check out [my blog](https://ayhon.bearblog.dev/suffix-array/)!
